@@ -1,0 +1,7 @@
+{
+  "name": "ci-cd-demo",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo \"✅ Kiểm thử giả lập thành công!\" && exit 0"
+  }
+}
